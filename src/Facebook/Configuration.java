@@ -17,8 +17,8 @@ public class Configuration {
     static final String PROTECTED_RESOURCE_URL = "https://graph.facebook.com/";
     //static String query = "/me?fields=picture.width(500).height(500)";
     public static volatile String token = "";
-    static String apiKey = "240198346146978";
-    static String apiSecret = "ee5d3e003357eb331825ae068ad297c7";
+    static String apiKey = "your api key";
+    static String apiSecret = "your api secret";
     static String redirectUrl = "https://www.facebook.com/connect/login_success.html";
     static String scopes = "";
     public static volatile Token accessToken;
